@@ -7,11 +7,11 @@ public class Exercise {
 		
 		int a,b,c,temp,larg;
 		Scanner sc =new Scanner(System.in);
-		System.out.println("Enter ithe 1st no: ");
+		System.out.println("Enter the 1st no: ");
 		a = sc.nextInt();
-		System.out.println("Enter ithe 2nd no: ");
+		System.out.println("Enter the 2nd no: ");
 		b = sc.nextInt();
-		System.out.println("Enter ithe 3rd no: ");
+		System.out.println("Enter the 3rd no: ");
 		c = sc.nextInt();
 		if (a>b && a>c) 
 			{
