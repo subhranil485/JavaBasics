@@ -10,7 +10,9 @@ public class Exercise {
         a=sc.nextInt();
         int first=0 , second =1 , sum;
         sum = first+second ; 
-    System.out.print(first+" "+second);
+    System.out.print(first+" "+second);{
+        
+    }
         while (sum<=a) {
             System.out.print(" " +sum+ " ");
             first = second;
