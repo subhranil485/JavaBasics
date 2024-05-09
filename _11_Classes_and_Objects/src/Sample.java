@@ -26,7 +26,10 @@ public class Sample {
         person2.name = "Tyrion Lannister";
         person2.age = 20;
 
+        System.out.println(person1.name);
+        System.out.println(person1.age);
         System.out.println(person2.name);
+        System.out.println(person2.age);
 
     }
 
